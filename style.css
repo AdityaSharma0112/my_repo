@@ -1,6 +1,9 @@
 
 
-.color,h2{
+.color{
  background-color: red ;
  
+}
+h2{
+    color: black;
 }
